@@ -1,0 +1,7 @@
+1	sabita		mca
+2	puja		bca
+3	sabnam		mca
+4	khushboo	mca
+5	kabir		mca
+1	sabita		mca
+6	sammy			mca
